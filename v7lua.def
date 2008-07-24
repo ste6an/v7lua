@@ -1,0 +1,6 @@
+; v7lua.def : Declares the module parameters for the DLL.
+
+LIBRARY      "v7lua"
+DESCRIPTION  'v7lua Windows Dynamic Link Library'
+
+EXPORTS
